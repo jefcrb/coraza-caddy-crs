@@ -1,4 +1,4 @@
-module github.com/corazawaf/coraza-caddy/v2
+module github.com/jefcrb/coraza-caddy-crs
 
 go 1.18
 
